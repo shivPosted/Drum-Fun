@@ -26,6 +26,7 @@ body {
   display: flex;
   gap: 3.2rem;
   z-index: 5;
+  padding-inline: 2rem;
 }
 
 .instrument {
